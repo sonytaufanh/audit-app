@@ -8,8 +8,11 @@ storage/framework/cache/*
 storage/framework/sessions/*
 storage/framework/views/*
 public/hot
+public/index.php
+public/.htaccess
 .git/
 artisan
 check_db.php
 phpunit.xml
 README.md
+tests/
