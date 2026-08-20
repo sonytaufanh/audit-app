@@ -1,0 +1,15 @@
+node_modules/
+vendor/
+.env
+.env.local
+database/database.sqlite
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+public/hot
+.git/
+artisan
+check_db.php
+phpunit.xml
+README.md
